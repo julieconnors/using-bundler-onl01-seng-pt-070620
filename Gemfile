@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
-gemfile_text "Hashie"
+gem "Hashie"
 
 group :development do
   gem "pry"
