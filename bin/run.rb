@@ -1,3 +1,4 @@
+require_relative '../configure/environment'
 Hashie
 Sinatra
 Octokit
